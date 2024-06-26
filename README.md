@@ -1,1 +1,1 @@
-# Projektni1_AR
+# Computer Architecture - project
